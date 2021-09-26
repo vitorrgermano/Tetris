@@ -9,5 +9,8 @@
 .bloco{
     width: 20px;
     height: 20px;
-    background-color: greenyellow;
+}
+
+.tetromino {
+    background-color: blue;
 }
