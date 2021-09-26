@@ -5,6 +5,7 @@ function montarTela() {
     bloco.setAttribute('class', 'bloco');
     tela.appendChild(bloco)
 }
+
 for (let i = 0; i < 200; i++) {
     montarTela()
 }

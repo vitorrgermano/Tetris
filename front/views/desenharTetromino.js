@@ -1,6 +1,7 @@
 function desenharTetromino() {
-    padrao.forEach(index => {
-    blocos[posicaoInical + index].classList.add('tetromino')
+    inicioTetromino.forEach(index => {
+    blocos[posicaoInicial + index].classList.add('class','tetromino');
     })
 }
+
 desenharTetromino()

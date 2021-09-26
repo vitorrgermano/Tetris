@@ -1,2 +1,3 @@
-let aleatorio = Math.floor(Math.random()*tetrominos.length)
-console.log(aleatorio)
+function aleatorio() {
+    return Math.floor(Math.random()*tetrominos.length)
+}
