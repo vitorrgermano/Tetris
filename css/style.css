@@ -1,0 +1,13 @@
+#tela{
+    width: 200px;
+    height: 400px;
+    background-color: black; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bloco{
+    width: 20px;
+    height: 20px;
+    background-color: greenyellow;
+}
